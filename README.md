@@ -1,62 +1,54 @@
-# 新拍
+Privacy Policy
 
-与普通拍照不同，这个在App Store上线的软件，可以实现拍照时记录手机位姿，并同时记录配有BLE蓝牙的单片机广播的数据，大大简化你的各种前期工作
+This policy applies only to new products or services offered by us. Last updated: January 3, 2024. This policy will help you understand the following:
 
-# 隐私政策
+How we collect and use your user information
+How we use cookies and similar technologies
+How we share, transfer, or disclose your user information
+How we protect your user information
+Your rights
+How your user information is stored and transferred globally
+How this policy will be updated
+How to contact us
+We understand the importance of user information and will do our best to protect your information securely. We are committed to maintaining your trust by adhering to principles such as responsibility consistency, purpose clarity, choice and consent, data minimization, security assurance, user participation, and transparency. We promise to adopt industry-standard security measures to protect your user information. Please read and understand this privacy policy carefully before using our products (or services).
 
-本政策仅适用于新拍产品或服务。 最近更新日期：1月3日2024年
-本政策将帮助您了解以下内容：\
-一、我们如何收集和使用您的用户信息\
-二、我们如何使用 Cookie 和同类技术\
-三、我们如何共享、转让、公开披露您的用户信息\
-四、我们如何保护您的用户信息\
-五、您的权利\
-六、您的用户信息如何储存及如何在全球范围转移\
-七、本政策如何更新\
-八、如何联系我们
+1. How We Collect and Use Your User Information
+(1) Information We Collect and Use During Your Use of Our Products or Services We will only collect and use your user information for the business functions described in this policy. The purpose of collecting user information is to provide you with products or services. You have the right to choose whether to provide this information; however, in most cases, if you do not provide it, we may be unable to offer you the corresponding services or respond to your issues.
 
-我们深知用户信息对您的重要性，并会尽全力保护您的用户信息安全可靠。我们致力于维持您对我们的信任，恪守以下原则，保护您的用户信息：权责一致原则、目的明确原则、选择同意原则、最少够用原则、确保安全原则、主体参与原则、公开透明原则等。同时，我们承诺，我们将按业界成熟的安全标准，采取相应的安全保护措施来保护您的用户信息。
-请在使用我们的产品（或服务）前，仔细阅读并了解本隐私政策。
+While using our services, you allow us to collect necessary information that you provide or is required to provide the service, including device information, log information, location information, photos, etc. The user information we collect will be used to provide you with features such as information browsing, sharing, and location services. The information you provide will remain authorized for us to use during your use of this service. When you stop using the push service, we will stop using and delete the above information.
 
-一、我们如何收集和使用您的用户信息\
-（一）您使用我司产品或服务过程中我们收集和使用的信息\
-我们仅会出于本政策所述的业务功能，收集和使用您的用户信息，收集用户信息的目的在于向您提供产品或服务，您有权自行选择是否提供该信息，但多数情况下，如果您不提供，我们可能无法向您提供相应的服务，也无法回应您遇到的问题：
-在您使用我们的服务时，允许我们收集您自行向我们提供的或为向您提供服务所必要的信息包括：设备信息、日志信息、位置信息、照片等。
-对于我们收集的用户信息，我们将用于为您提供信息浏览、分享功能、定位功能等。
-您提供的上述信息，将在您使用本服务期间持续授权我们使用。在您停止使用推送服务时，我们将停止使用并删除上述信息。
-我们保证会依法对收集后的用户信息进行去标识化或匿名化处理，对于无法单独或者与其他信息结合识别自然人个人身份的信息，不属于法律意义上的个人信息。如果我们将非个人信息与其他信息结合识别到您的个人身份时，或者与您的个人信息结合使用时，我们会在结合使用期间，将此类信息作为您的个人信息按照本隐私政策对其进行处理和保护。
-为了更好运营和改善我们的技术和服务，或出于商业策略的变化，当我们提供的产品或服务所需的用户信息收集、使用、处理超出上述范围或者要将收集到的用户信息用于本隐私政策未载明的其他用途，或当我们要将基于特定目的收集而来的信息用于其他目的时，我们会在获取用户信息后的合理期限内或处理用户信息前通知您，并获得您的授权同意。
+We guarantee that we will anonymize or de-identify the collected user information as per the law. Information that cannot identify individuals, either alone or in combination with other information, is not considered personal information in a legal sense. If we combine non-personal information with other information that can identify your personal identity, or use it with your personal information, we will treat and protect such information as your personal information according to this privacy policy.
 
-三、我们如何共享、转让、公开披露您的用户信息\
-（一）共享\
-我们不会与其他的任何公司、组织和个人分享您的用户信息。\
-（二）转让\
-我们不会将您的用户信息转让给任何公司、组织和个人。
+To better operate and improve our technology and services, or due to changes in business strategy, if we need to collect, use, or process user information beyond the scope described above, or if we want to use the collected user information for other purposes not stated in this privacy policy, we will notify you within a reasonable time after collecting the user information or before processing it and obtain your consent.
 
-四、我们如何保护您的用户信息\
-（一）数据只会保留在设备本地，软件没有联网功能。
+3. How We Share, Transfer, or Disclose Your User Information
+(1) Sharing We do not share your user information with any other companies, organizations, or individuals.
 
-五、您的权利\
-按照中国相关的法律、法规、标准，以及其他国家、地区的通行做法，我们保障您对自己的用户信息行使以下权利：\
-（一）访问您的用户信息\
-您有权访问您的本地文件数据。
+(2) Transfer We do not transfer your user information to any companies, organizations, or individuals.
 
+4. How We Protect Your User Information
+(1) Data Storage Data will only be stored locally on your device, and the software does not have networking capabilities.
 
-七、您的用户信息如何储存以及如何在全球范围转移\
-数据储存在设备本地, 软件没有联网功能。
+5. Your Rights
+In accordance with relevant laws, regulations, and standards in China, as well as practices in other countries and regions, we guarantee you the following rights regarding your user information:
 
-八、本政策如何更新\
-我们的隐私政策可能变更。未经您明确同意，我们不会削减您按照本隐私政策所应享有的权利。我们会在本页面上发布对本政策所做的任何变更。
-对于重大变更，我们还会提供更为显著的通知。本政策所指的重大变更包括但不限于：\
-1、我们的服务模式发生重大变化。如处理用户信息的目的、处理的用户信息类型、用户信息的使用方式等；\
-2、我们在所有权结构、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；\
-3、用户信息共享、转让或公开披露的主要对象发生变化；\
-4、您参与用户信息处理方面的权利及其行使方式发生重大变化；\
-5、我们负责处理用户信息安全的责任部门、联络方式及投诉渠道发生变化时；\
-6、用户信息安全影响评估报告表明存在高风险时。\
-我们还会将本政策的旧版本存档，供您查阅。
+(1) Access Your User Information You have the right to access your local file data.
 
-九、如何联系我们\
-如果您对本隐私政策有任何疑问、意见或建议，通过以下方式与我们联系：\
-电子邮件：211122090001@zjut.edu.cn
-一般情况下，我们将在三十天内回复。
+7. How Your User Information is Stored and Transferred Globally
+Data is stored locally on your device, and the software does not have networking capabilities.
+
+8. How This Policy Will Be Updated
+Our privacy policy may change. Without your explicit consent, we will not reduce the rights you are entitled to under this privacy policy. We will post any changes to this policy on this page. For significant changes, we will provide more prominent notifications. Significant changes include but are not limited to:
+
+Major changes in our service model, such as purposes of processing user information, types of user information processed, and how user information is used;
+Significant changes in our ownership structure or organizational structure, such as changes in ownership due to business adjustments, bankruptcy, or mergers;
+Major changes in the primary entities with whom user information is shared, transferred, or disclosed;
+Major changes in your rights and methods of exercising those rights regarding user information processing;
+Changes in the department responsible for user information security, contact methods, and complaint channels;
+High-risk findings from user information security impact assessment reports.
+We will archive previous versions of this policy for your review.
+
+9. How to Contact Us
+If you have any questions, comments, or suggestions regarding this privacy policy, please contact us via:
+
+Generally, we will reply within thirty days.
